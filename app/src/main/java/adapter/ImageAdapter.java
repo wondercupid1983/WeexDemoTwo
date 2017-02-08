@@ -14,6 +14,7 @@ import com.taobao.weex.dom.WXImageQuality;
  * Created by wondercupid on 2017/1/27.
  */
 
+//hahah test
     public class ImageAdapter implements IWXImgLoaderAdapter {
 //123
         public ImageAdapter() {
