@@ -16,6 +16,7 @@ import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
 
+    //123456
     RelativeLayout viewGroup;
     private static final String DEFAULT_IP = "your_current_IP";
     private static String CURRENT_IP= DEFAULT_IP; // your_current_IP
