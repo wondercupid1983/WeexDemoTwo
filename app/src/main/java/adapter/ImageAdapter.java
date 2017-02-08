@@ -15,7 +15,7 @@ import com.taobao.weex.dom.WXImageQuality;
  */
 
     public class ImageAdapter implements IWXImgLoaderAdapter {
-
+//123
         public ImageAdapter() {
         }
 
