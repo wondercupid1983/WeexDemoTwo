@@ -15,7 +15,7 @@ public class MyApplication extends Application {
 
     @Override
     public void onCreate() {
-        int abc = 1;
+       // int abc = 1; gkfjladjfladsjfl
         super.onCreate();
         WXEnvironment.addCustomOptions("appName","TBSample");
         WXSDKEngine.initialize(this,new InitConfig.Builder()
